@@ -1,0 +1,2 @@
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Gerenciamento Acadêmico\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Gerenciamento Acadêmico\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CoreCompileInputs.cache

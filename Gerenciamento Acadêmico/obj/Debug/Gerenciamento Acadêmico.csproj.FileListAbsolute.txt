@@ -1,0 +1,6 @@
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Gerenciamento Acadêmico\Gerenciamento Acadêmico\obj\Debug\Gerenciamento Acadêmico.csproj.AssemblyReference.cache
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Gerenciamento Acadêmico\Gerenciamento Acadêmico\obj\Debug\Gerenciamento Acadêmico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Gerenciamento Acadêmico\Gerenciamento Acadêmico\obj\Debug\Gerenciamento_Acadêmico.Form1.resources
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Gerenciamento Acadêmico\Gerenciamento Acadêmico\obj\Debug\Gerenciamento_Acadêmico.Properties.Resources.resources
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Gerenciamento Acadêmico\Gerenciamento Acadêmico\obj\Debug\Gerenciamento Acadêmico.csproj.GenerateResource.cache
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Gerenciamento Acadêmico\Gerenciamento Acadêmico\obj\Debug\Gerenciamento Acadêmico.csproj.CoreCompileInputs.cache
